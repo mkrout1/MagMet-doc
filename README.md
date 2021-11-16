@@ -1,5 +1,5 @@
 # [MagMet](http://magmet.ca)
-## This repository is for a brief description of MagMet.
+This repository is for a brief description of MagMet.
 
 Nuclear Magnetic Resonance spectroscopy is a powerful technique and is used widely for metabolomics studies. However, spectra analysis and manual spectral profiling to extract metabolite concentration is a time-consuming process and done by highly qualified personnel.  
 To overcome these challenges, MagMet is developed.  
